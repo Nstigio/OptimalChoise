@@ -1,0 +1,2 @@
+# OptimalChoise
+Decision making algorithm 
